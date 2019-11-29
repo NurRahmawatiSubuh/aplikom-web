@@ -1,0 +1,49 @@
+.Rahma{
+    color: black;
+    background-color: antiquewhite(240, 248, 255, 0.671);
+    width: 80%;
+    padding: 20px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+    margin: auto;
+}
+body{
+    margin: auto;
+    background-image: url(background/template_rahma.jpg);
+    width: 80%;
+    padding: 40px;
+}
+.subuh{
+    float: right;
+    padding-top: 5px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:30px;
+}
+.Facebook{
+    text-align:left;
+font-family: fantasy;
+font-size:20px;
+}
+.Instagram{
+text-align:left;
+font-family: fantasy;
+font-size:20px;
+}
+.Whatsapp{
+    text-align: left;
+    font-family: fantasy;
+    font-size:20px;
+}
+.Email{
+    text-align:left;
+font-family: fantasy;
+font-size:20px;
+}
+.rahma{
+    padding: 15px;
+}
